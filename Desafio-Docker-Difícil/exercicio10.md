@@ -58,3 +58,4 @@ docker run -dp 5000:5000 nome_app:1.0v
 ```bash
 docker exec nome_app:1.0v whoami
 ```
+![ex10](https://github.com/user-attachments/assets/69ac48ff-534a-49e9-b38c-b4d468c091aa)
