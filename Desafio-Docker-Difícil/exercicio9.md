@@ -28,3 +28,4 @@ CMD ["nginx", "-g", "daemon off;"]
 docker build -t template:1.0v .
 docker run -dp 8080:80 template:1.0v
 ```
+![ex9](https://github.com/user-attachments/assets/1a143697-b980-42f4-8934-3ed1aa0623c0)
