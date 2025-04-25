@@ -55,3 +55,4 @@ Mensagem esperada:
 ```
 Hello, Docker!
 ```
+![ex6](https://github.com/user-attachments/assets/9a67e5c7-3244-49b8-93dd-de466d1ef309)
