@@ -49,3 +49,5 @@ volumes:
 ```bash
 docker-compose up -d
 ```
+![EX8(1)](https://github.com/user-attachments/assets/f1941942-cd4a-47af-a5b3-37ba0d842177)
+![EX8](https://github.com/user-attachments/assets/fbed0a1b-49a0-4496-a17c-81c1ceb76d94)
