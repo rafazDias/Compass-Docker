@@ -12,6 +12,8 @@ curl -sfL https://raw.githubusercontent.com/aquasecurity/trivy/main/contrib/inst
 ```bash
 trivy image --severity HIGH,CRITICAL python:3.9
 ```
+![ex11](https://github.com/user-attachments/assets/27fcac67-1bbe-40ed-94c4-e3b7d3aff74a)
+![ex12](https://github.com/user-attachments/assets/8e6fd99e-8299-4937-82be-460a6d0a7839)
 
 ### 3- Solução
 
