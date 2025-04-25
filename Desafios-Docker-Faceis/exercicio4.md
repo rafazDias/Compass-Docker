@@ -35,3 +35,4 @@ Mensagem esperada:
 ```
 Hello world!
 ```
+![ex4(1)](https://github.com/user-attachments/assets/d04a9302-cfd2-4923-b86f-b4f23dd07209)
