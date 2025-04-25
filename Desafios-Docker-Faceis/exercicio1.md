@@ -31,3 +31,5 @@ docker build -t Nginx:1.0v .
 ```bash
 docker run -dp 8080:8080 Nginx:1.0v
 ```
+![ex1](https://github.com/user-attachments/assets/b00c2c8f-6e45-446b-af4a-937656961175)
+
