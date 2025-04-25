@@ -48,7 +48,7 @@ networks:
 ### 3- Execute os containers
 
 ```bash
-docker-compose up -d --build
+docker-compose up -d 
 ```
 
 ### 4- Verificando a rede
@@ -56,3 +56,5 @@ docker-compose up -d --build
 ```bash
 docker network inspect app-network
 ```
+![ex7](https://github.com/user-attachments/assets/a057f830-53b1-46e1-8a86-2e433b778832)
+![ex7(3)](https://github.com/user-attachments/assets/91069b81-975c-4c48-b723-1b74d3341b1a)
