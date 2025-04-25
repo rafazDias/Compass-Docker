@@ -14,7 +14,9 @@ Aqui você encontrará:
 
 ## 📂 Estrutura
 
-
+- [Desafios Fáceis](./Desafios-Docker-Faceis)
+- [Desafios Médios](./Desafios-Docker-Médios)
+- [Desafios Difíceis](./Desafio-Docker-Difícil)
 - Cada exercício possui comandos diretos para executar e testar localmente.
 - Scripts e arquivos de configuração organizados por etapas.
 
